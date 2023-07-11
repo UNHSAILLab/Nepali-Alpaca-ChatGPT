@@ -38,7 +38,7 @@ HuggingFace Link: https://huggingface.co/saillab/Nepali_Alpaca_ChatGPT_33B
 
 
 ```
-![13BDemo](images/nep_alpaca_13B.gif)
+![13BDemo](images/nep_alpaca_13B_Demo.gif)
 
 **🇳🇵33B Model Generated Output**
 ```
