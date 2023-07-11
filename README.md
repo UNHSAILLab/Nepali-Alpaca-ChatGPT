@@ -1,10 +1,10 @@
 # Nepali-Chat-GPT 🇳🇵
 
-This repo consist of the demo and the necessary guidelines for creating the open source Nepali Alpaca ChatGPT.
+This repository consists of the demo for the first open-source Nepali Alpaca ChatGPT LLM.
 
-As per our knowledge this is the first open-source large language model created specifically for **Nepali Language**. 
+To the best of our knowledge, this is the first open-source large language model created specifically for the Nepali language.
 
-We have released both the LoRA files as well as the merged file in the huggingface.
+We have released both the LoRA files and the merged files on HuggingFace.
 
 <img src="images/Nepali_Alpaca_v2.png" alt="Image Description" width="222" >
 
