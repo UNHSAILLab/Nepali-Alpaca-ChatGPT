@@ -6,7 +6,7 @@ As per our knowledge this is the first open-source large language model created 
 
 We have released both the LoRA files as well as the merged file in the huggingface.
 
-![image](images/Nepali_Alpaca_v2.png)
+<img src="images/Nepali_Alpaca_v2.png" alt="Image Description" width="222" >
 
 ## Models and LoRA Adapter Weights:
 1. **🇳🇵Nepali Alpaca Chat-GPT-7B**: We have finetuned the timdettmers/guanaco-7b model with the Nepali-Alpaca-GPT4 dataset. 
